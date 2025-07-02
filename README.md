@@ -1,2 +1,0 @@
-# portfolio
-buliding my portfolio
